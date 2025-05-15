@@ -14,13 +14,11 @@ uv venv --python 3.11
 uv sync
 ```
 
-Next, navigate to your project directory and install the dependencies:
+### Configuration
 
-(Optional) Lock the dependencies and install them by using the CLI command:
-```bash
-crewai install
-```
-### Customizing
+Assumes you already have an OPENAI_API_KEY.
+
+Create an account at [SerperDev](https://serper.dev/).
 
 **Add your `OPENAI_API_KEY` and `SERPER_API_KEY` into the `.env` file**
 
