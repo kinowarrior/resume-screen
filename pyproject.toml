@@ -1,0 +1,12 @@
+[project]
+name = "deeplearningai"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "crewai==0.28.8",
+    "crewai-tools==0.1.6",
+    "dotenv==0.9.9",
+    "langchain-community==0.0.29",
+    "pip>=25.1.1",
+    "setuptools>=80.6.0",
+]
