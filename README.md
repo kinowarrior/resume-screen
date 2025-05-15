@@ -22,8 +22,6 @@ Create an account at [SerperDev](https://serper.dev/).
 
 **Add your `OPENAI_API_KEY` and `SERPER_API_KEY` into the `.env` file**
 
-## Running the Project
-
 ## Support
 
 For support, questions, or feedback regarding crewAI.
